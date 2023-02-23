@@ -1,0 +1,7 @@
+id=oemlock
+name=oemlock
+author=hhhh
+version=v4
+description=隐藏oem的解锁状态
+versionCode=120
+minMagisk=1600
